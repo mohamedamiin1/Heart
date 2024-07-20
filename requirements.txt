@@ -1,0 +1,8 @@
+streamlit
+streamlit-option-menu
+pandas
+seaborn
+matplotlib
+pybase64
+pickle5
+pillow
